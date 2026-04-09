@@ -1,5 +1,8 @@
 Based on a project that saves the application and track individually. Each will have separate section. Model based application 
 
+## Features
+- Tabs toggling
+- Js Condition Based Feature 
 ## Used Technologies:
 Vanila JS
 Tailwind CSS
