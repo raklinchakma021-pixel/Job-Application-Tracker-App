@@ -1,3 +1,9 @@
+##Used Technologies:
+Vanila JS
+Tailwind CSS
+HTML
+ 
+ 
  ## What is the difference between getElementById, getElementsByClassName, and querySelector / querySelectorAll?
 
   ans no. 1:
