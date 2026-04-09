@@ -1,4 +1,6 @@
-##Used Technologies:
+Based on a project that saves the application and track individually. Each will have separate section. Model based application 
+
+## Used Technologies:
 Vanila JS
 Tailwind CSS
 HTML
